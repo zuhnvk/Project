@@ -1,0 +1,2044 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+.nftpro_menu > ul > li > a {
+    margin: 30px 6px !important;
+    font-size: 15px !important;
+}
+.header-button .dtbtn {
+    font-size: 14px !important;
+    padding: 6px 18px !important;
+}
+.socails-icon ul li a {
+    height: inherit!important;
+    width: inherit!important;
+    line-height: inherit!important;
+    background: transparent !important;
+    color: #F16722!important;
+     padding-top: 5px !important;
+}
+a.logo_img img {
+    width: 190px !important;
+}
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+a.logo_img img {
+    width: 60% !important;
+}
+.style-two nav.nftpro_menu {
+    margin-left: 0;
+}
+.nftpro_menu > ul > li > a {
+    font-size: 14px !important;
+    margin: 29px 10px !important;
+}
+.search form input {
+    display: none;
+}
+nav.nftpro_menu ul li span i {
+    font-size: 10px;
+}
+.style-two .header-button a {
+    font-size: 14px;
+    padding: 9px 18px;
+    margin: 0;
+}
+.version2 .banner-content h1 {
+    font-size: 42px;
+}
+.banner-section.light-version h1 {
+    font-size: 42px;
+    line-height: 50px;
+}
+.auction-headi-title h6 {
+    font-size: 16px;
+}
+.version2 .banner-content p {
+    font-size: 16px;
+}
+.auction-munu-icon i {
+    font-size: 15px;
+}
+.banner-main-thumb {
+    margin-left: 0;
+}
+.banner-thumb-inner1 {
+    top: -192px;
+    right: 35px;
+}
+.banner-thumb-inner1 img {
+    width: 82%;
+}
+.banner-thumb-inner2 {
+    top: -130px;
+    left: 75px;
+}
+.banner-thumb-inner2 img {
+    width: 80%;
+}
+.banner-thumb-inner3 {
+    top: -130px;
+    right: -40px;
+}
+.banner-thumb-inner4 {
+    left: -100px;
+    top: -65px;
+}
+.banner-thumb-inner4 img {
+    width: 80%;
+}
+.banner-thumb-inner5 img {
+    width: 69%;
+}
+.banner-thumb-inner6 {
+    left: -73px;
+    top: 280px;
+}
+.banner-thumb-inner6 img {
+    width: 80%;
+}
+.banner-thumb-inner7 img {
+    width: 69%;
+}
+.banner-button a {
+    font-size: 14px;
+    padding: 13px 30px;
+}
+/*banner version3*/
+.version3 .banner-content h1 {
+    font-size: 41px;
+}
+.version3 .banner-content p {
+    font-size: 15px;
+}
+/*auction section*/
+.count-Down-menu {
+    left: 9%;
+}
+div#countdown {
+    left: 12%;
+}
+.em-auction-title h2 {
+    font-size: 18px;
+}
+.em-auction-price p {
+    font-size: 13px;
+}
+.em-auction-price span {
+    font-size: 12px;
+}
+.em-auction-right p {
+    font-size: 15px;
+}
+.auction-button a {
+    font-size: 14px;
+    padding: 2px 12px;
+}
+.auction-history a {
+    font-size: 12px;
+}
+.auction-history a i {
+    font-size: 11px;
+}
+.meta-icon a {
+    font-size: 13px;
+    padding: 0 9px;
+}
+/*auction*/
+.auction.dreamit-section-title h1 {
+    font-size: 30px;
+}
+.seller_list.owl-carousel .owl-item img {
+    width: 90%;
+}
+.dreamit-section-title h1 {
+    font-size: 30px;
+}
+.version2.dreamit-section-title h1 {
+    font-size: 30px;
+}
+.up2.version2.dreamit-section-title h1 {
+    font-size: 30px;
+}
+.version2.dreamit-section-title p {
+    padding: 0 242px 22px;
+    font-size: 16px;
+}
+.style-three .em-auction-title h2 {
+    font-size: 15px;
+}
+.style-three .em-auction-price p {
+    font-size: 13px;
+}
+.style-three .em-auction-right p {
+    font-size: 13px;
+}
+.style-three .auction-history a i {
+    font-size: 12px;
+}
+.style-three .auction-head-icon a {
+    font-size: 13px;
+}
+.style-three .auction-head-icon a i {
+    font-size: 12px;
+}
+.style-three .em-auction-right p span {
+    font-size: 13px;
+}
+/*feature*/
+.up1.version2.dreamit-section-title h1 {
+    font-size: 35px;
+}
+.art-flatform-title {
+    overflow: hidden;
+}
+.art-flatform-title p {
+    font-size: 15px;
+}
+.art-flatform-title h4 {
+    font-size: 18px;
+}
+.feature-thumb-innner {
+    right: -39px;
+    bottom: -69px;
+}
+.feature-thumb-innner img {
+    width: 90%;
+}
+.feature-thumb-innner2 {
+    left: -47px;
+    bottom: -60px;
+}
+.feature-thumb-innner2 img {
+    width: 80%;
+}
+.feature-thumb-innner3 {
+    left: -60px;
+    top: -66px;
+}
+.feature-thumb-innner3 img {
+    width: 80%;
+}
+.art-thumb-innner img {
+    width: 75%;
+}
+.art-thumb-innner {
+    right: -45px;
+}
+/*style two*/
+.style-two .feature-main-thumb img {
+    width: 83%;
+}
+.section2.dreamit-section-title p {
+    padding: 15px 0px 42px 0px;
+    width: 63%;
+}
+/*seller*/
+.seller-title h4 {
+    font-size: 18px;
+}
+.seller-title p {
+    font-size: 15px;
+}
+.about-thumb-innner {
+    right: 29px;
+    bottom: -55px;
+}
+.about-thumb-innner img {
+    width: 85%;
+}
+.about-thumb-innner3 img {
+    width: 80%;
+}
+.about-thumb-innner3 {
+    left: -50px;
+}
+/*explore*/
+.dreamit-explore-box {
+    padding: 19px 18px 29px;
+}
+.meta-explore-icon a {
+    font-size: 14px;
+    padding: 0px 12px 0px 12px;
+}
+.dreamit-explore-main-thumb img {
+    width: 100%;
+}
+.em-explore-title h2 {
+    font-size: 18px;
+}
+.explore-creator-title span {
+    font-size: 12px;
+}
+.explore-creator-title h5 {
+    font-size: 13px;
+}
+.explore-right-title span {
+    font-size: 12px;
+}
+.explore-right-title h6 {
+    font-size: 10px;
+}
+.explore-creator-right {
+    margin: -44px 0 0;
+}
+/*pppular*/
+.dreamit-popular-main-thumb img {
+    width: 100%;
+}
+.popular-collection-thumb {
+    margin: 5px 8px 0 0;
+}
+.popular-collection-title h2 {
+    font-size: 18px;
+    padding: 6px 0 0px;
+}
+.popular-collection-title p {
+    font-size: 15px;
+}
+.popular-collection-icon {
+    right: -6px;
+    top: 39px;
+}
+.popular-collection-icon a {
+    font-size: 13px;
+    padding: 0px 8px 0px 8px;
+}
+p.nft-text {
+    text-align: left;
+}
+/*blog*/
+.dreamit-blog-thumb img {
+    width: 100%;
+}
+.blog-title h2 {
+    line-height: 26px;
+}
+.blog-title h2 a {
+    font-size: 17px;
+}
+/*footer*/
+.widget-nav-menu h4 {
+    font-size: 20px;
+}
+.widget-nav-menu:before {
+    right: 38px;
+}
+.upper.widget-nav-menu:before {
+    right: -14px;
+}
+.upper1.widget-nav-menu:before {
+    right: 12px;
+}
+.upper2.widget-nav-menu:before {
+    right: -5px;
+}
+.breadcome-title h2 {
+    font-size: 45px;
+}
+.subscribe-title h2 {
+    font-size: 28px;
+}
+.new-author-button a {
+    font-size: 15px;
+    padding: 1px 18px;
+    margin-top: 20px;
+}
+.dreamit-contact-thumb img {
+    width: 100%;
+}
+.item-details-menu.upper.text-right {
+    margin-left: 0;
+    margin-top: 20px;
+}
+button, input, optgroup, select, textarea {
+    font-size: 14px;
+}
+.search-explore form input {
+    padding: 0px 0 0 20px;
+}
+.explore-widget-search {
+    padding: 15px 18px 30px;
+}
+.upper .search-explore form i {
+    right: 20px;
+    font-size: 15px;
+}
+.widget-sidebar-box {
+    padding: 20px 18px 10px;
+}
+.popular-post-content a {
+    font-size: 14px;
+    margin-top: -8px;
+}
+.popular-post-thumb img {
+    width: 100%;
+}
+.popular-post-thumb {
+    margin-right: 12px;
+}
+.popular-post-content span {
+    font-size: 13px;
+}
+.activity-market-filter-menu ul li a {
+    padding: 2px 9px;
+    font-size: 14px;
+}
+.details .blog-title h2 a {
+    font-size: 25px;
+}
+.blog-page-title h4 {
+    font-size: 25px;
+}
+span.right-reply {
+    top: -158px;
+}
+.post-title h4 {
+    font-size: 18px;
+}
+.widget-comments-title h2 {
+    font-size: 22px;
+}
+.widget-sidebar-title2 h2 {
+    font-size: 22px;
+}
+.activity-market-filter-menu ul li {
+    padding: 0 2px 10px 0px;
+}
+.dreamit-section-title p {
+    padding: 12px 0 15px;
+}
+.accordion a {
+    font-size: 18px;
+}
+.dreamit-faq-thumb img {
+    width: 100%;
+}
+.profile-thumb img {
+    width: 86%;
+}
+.author-menu ul li a {
+    font-size: 16px;
+}
+.explore-widget-thumb img {
+    width: 100%;
+}
+.explore-thumb-title h4 {
+    font-size: 20px;
+    font-weight: 500;
+    padding-bottom: 10px;
+}
+.search-explore form i {
+    right: 30px;
+}
+.sign-in-title p {
+    font-size: 16px;
+}
+.sign-in-title p:before {
+    width: 32%;
+}
+.sign-in-title p:after {
+    width: 32%;
+}
+.sign-button {
+    text-align: inherit;
+}
+a.sign-button2 {
+    margin-left: 0;
+    margin-top: 20px;
+}
+.sign-in-title h2 {
+    font-size: 35px;
+}
+.dreamit-wallet-thumb img {
+    width: 100%;
+}
+.wallet-box {
+    padding: 22px 18px 2px;
+}
+.wallet-title h3 {
+    font-size: 18px;
+}
+.wallet-title p {
+    font-size: 11px;
+    line-height: 19px;
+}
+.activity-icon {
+    top: 76%;
+}
+.activites-title h3 {
+    font-size: 22px;
+}
+p.activity {
+    font-size: 14px;
+}
+.explore_menu form select {
+    padding: 12px 33px;
+}
+
+}
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+ .nftpro_nav_manu {
+    display: none;
+}   
+.nftpro_menu > ul > li > a {
+    margin: 30px 9px;
+    font-size: 16px;
+}
+.search form input {
+display: none;
+}
+.version2 .banner-content h1 {
+    font-size: 40px;
+}
+.banner-section.light-version h1 {
+    font-size: 40px;
+    line-height: 50px;
+}
+.banner-main-thumb {
+    margin-top: 160px;
+}
+.nft-item.light-version .nft-inner {
+    padding: 85px;
+}
+/*version3*/
+.version3 .banner-content h1 {
+    font-size: 40px;
+}
+.version3 .banner-main-thumb img {
+    width: 63%;
+}
+.version3 .banner-main-thumb {
+    margin-top: 0;
+}
+.version3.dreamit-section-title h1 {
+    font-size: 35px;
+}
+/*auction section*/
+.auction-button {
+    display: block;
+}
+.auction-history {
+    margin: -30px 0 -26px;
+}
+.dreamit-section-title h1 {
+    font-size: 30px;
+}
+.seller_list.owl-carousel .owl-item img {
+    width: 92%;
+}
+.seller-title h4 {
+    font-size: 18px;
+}
+.seller-title p {
+    font-size: 15px;
+}
+.meta-explore-icon {
+    right: 38px;
+}
+.popular-collection-thumb {
+    margin: 5px 12px 0 0;
+}
+.dreamit-popular-main-thumb img {
+    width: 100%;
+}
+.popular-collection-title p {
+    font-size: 16px;
+}
+.popular-collection-icon {
+    top: 43px;
+}
+.popular-collection-icon a {
+    font-size: 14px;
+    padding: 0px 15px 0px 15px;
+}
+.sell.dreamit-section-title h1 {
+    font-size: 25px;
+}
+p.nft-text {
+    text-align: left;
+}
+.dreamit-blog-thumb img {
+    width: 100%;
+}
+.blog-title h2 a {
+    font-size: 19px;
+}
+.widget-nav-menu h4 {
+    font-size: 20px;
+}
+.subscribe-title h2 {
+    font-size: 19px;
+}
+.subscribe-title h4 {
+    font-size: 12px;
+    font-weight: 500;
+}
+.subscribe-title h4:before {
+    left: 90px;
+}
+.from-box button {
+    padding: 16px 12px;
+    font-size: 12px;
+}
+.new-author-button a {
+    padding: 2px 20px;
+    margin-top: 14px;
+}
+.new-author-button a {
+    font-size: 14px;
+    padding: 1px 20px;
+    margin-top: 18px;
+}
+.explore_menu ul li {
+    font-size: 12px;
+    padding: 11px 12px 9px 16px;
+}
+.explore_menu ul li i {
+    font-size: 10px;
+    margin-left: 5px;
+}
+.explore.text-right {
+    text-align: inherit;
+    margin-bottom: 30px;
+}
+.dreamit-contact-thumb img {
+    width: 100%;
+}
+.item-details-menu.upper.text-right {
+    margin-left: 0;
+    margin-top: 20px;
+}
+.item-details-menu {
+    right: -8px;
+}
+.item-details-menu a {
+    padding: 8px 8px 12px;
+    font-size: 15px;
+}
+.item-details-menu a span {
+    padding-left: 15px;
+}
+.items-sidebar-title h2 {
+    font-size: 22px;
+}
+.style-two .item-price p {
+    font-size: 12px;
+}
+.style-two .item-price span {
+    font-size: 12px;
+}
+.items-owner-icon a {
+    font-size: 14px;
+    padding: 3px 13px 3px 13px;
+}
+.item-share-menu {
+    margin: -5px 0 0;
+}
+.upper .search-explore form i {
+    right: 78px;
+}
+.details .blog-title h2 a {
+    font-size: 20px;
+}
+p.details-text {
+    font-size: 16px;
+}
+.blog-popular-text {
+    padding: 30px 20px 8px;
+}
+.blog-details-icon {
+    margin-right: 18px;
+}
+.widget-comments-title h2 {
+    font-size: 22px;
+}
+.post-title h4 {
+    font-size: 18px;
+}
+.post-comment-thumb {
+    margin-right: 14px;
+}
+span.right-reply {
+    padding: 1px 12px;
+    font-size: 13px;
+    top: -225px;
+    right: -23px;
+}
+.post-reply p {
+    font-size: 12px;
+}
+.widget-sidebar-title2 h2 {
+    font-size: 22px;
+}
+.blog-page-title h4 {
+    font-size: 22px;
+}
+.popular-post-content a {
+    font-size: 16px;
+}
+.popular-post-thumb img {
+    width: 100%;
+}
+.style-three .widget-sidebar-title h2 {
+    font-size: 28px;
+    margin: 0;
+}
+.dreamit-section-title p {
+    padding: 15px 0 40px 0;
+}
+.section2.dreamit-section-title p {
+    padding: 15px 5px 42px 0px;
+}
+ul.accordion li a span {
+    margin-right: 5px;
+}
+.accordion a {
+    font-size: 13px;
+}
+.dreamit-faq-thumb img {
+    width: 100%;
+}
+.profile-thumb img {
+    width: 80%;
+}
+.author-menu ul li {
+    padding: 0 15px 0 0;
+}
+.author-setting h5 {
+    font-size: 16px;
+}
+.dreamit-explore-main-thumb img {
+    width: 100%;
+}
+.explore-item-menu ul li a i {
+    font-size: 9px;
+    margin-right: 4px;
+}
+.explore-item-menu ul li a {
+    font-size: 12px;
+    padding: 3px 1px;
+}
+.explore-item-menu ul li {
+    padding: 0px 0px 0 0;
+}
+.explore-item-menu {
+    padding: 13px 9px 14px;
+}
+.author-menu ul li a {
+    font-size: 13px;;
+}
+.em-explore-title h2 {
+    font-size: 14px;
+}
+.explore-right-title {
+    opacity: 0;
+}
+.explore-creator-title span {
+    font-size: 12px;
+}
+.explore-creator-title h5 {
+    font-size: 11px;
+}
+.explore-thumb-title h4 {
+    font-size: 21px;
+    padding: 0 0 15px;
+}
+
+.explore-widget-thumb img {
+    width: 100%;
+}
+.search-explore form i {
+    right: 74px;
+}
+.dreamit-result-section p {
+    padding: 20px 0 25px;
+}
+.dreamit-wallet-thumb img {
+    width: 100%;
+}
+.wallet-title p {
+    font-size: 13px;
+    line-height: 20px;
+}
+.wallet-title h3 {
+    font-size: 19px;
+}
+.wallet-bottom-text p {
+    font-size: 13px;
+    line-height: 21px;
+}
+.activities-thumb {
+    float: inherit;
+    margin-right: 10px;
+}
+.activites-title h3 {
+    font-size: 20px;
+    margin-top: 18px;
+}
+p.activity {
+    font-size: 15px;
+    margin: 3px 0 5px;
+}
+.activites-title p {
+    color: #fff;
+    margin: 0 0 2px;
+    font-size: 15px;
+}
+.activity-icon {
+    right: 14px;
+    top: 12%;
+}
+.activity-market-filter-menu ul li a {
+    font-size: 14px;
+}
+.acticity-title h2 {
+    font-size: 20px;
+}
+.activities-form select {
+    padding: 6px 5px 6px;
+    font-size: 15px;
+}
+.activity-market-filter-menu ul li a i {
+    font-size: 11px;
+}
+.explore_menu form select {
+    padding: 12px 23px;
+}
+.table>thead tr th span {
+    padding: 0px 30px 0 20px;
+}
+tr.single td span {
+    padding: 0px 30px 0 20px;
+}
+tr.one td span {
+    padding: 0 30px 0 20px;
+}
+tr.double td span {
+    padding: 0 40px 0 20px;
+}
+tr.triple td span {
+    padding: 0 30px 0 20px;
+}
+tr.two td span {
+    padding: 0 30px 0 20px;
+}
+.table>thead tr th {
+    font-size: 14px;
+}
+.table tr td {
+    font-size: 14px;
+}
+tr.single td h6 {
+    font-size: 15px;
+}
+tr.one td h6 {
+    font-size: 15px;
+}
+tr.double td h6 {
+    font-size: 15px;
+}
+tr.triple td h6 {
+    font-size: 15px;
+}
+tr.two td h6 {
+    font-size: 15px;
+}
+.banner-thumb-inner1 {
+    top: -192px;
+    right: 165px;
+}
+.banner-thumb-inner1 img {
+    width: 82%;
+}
+.banner-thumb-inner2 {
+    top: -130px;
+    left: 183px;
+}
+.banner-thumb-inner2 img {
+    width: 80%;
+}
+.banner-thumb-inner3 {
+    top: -130px;
+    right: 62px;
+}
+.banner-thumb-inner4 {
+    left: -5px;
+    top: -65px;
+}
+.banner-thumb-inner4 img {
+    width: 80%;
+}
+.banner-thumb-inner5 {
+    right: -42px;
+}
+.banner-thumb-inner5 img {
+    width: 69%;
+}
+.banner-thumb-inner6 {
+    left: -10px;
+    top: 280px;
+}
+.banner-thumb-inner6 img {
+    width: 80%;
+}
+.banner-thumb-inner7 {
+    right: -42px;
+    top: 230px;
+}
+.banner-thumb-inner7 img {
+    width: 69%;
+}
+.banner-button a {
+    font-size: 14px;
+    padding: 13px 30px;
+}
+.version2.dreamit-section-title p {
+    padding: 0 90px 22px;
+    font-size: 16px;
+}
+.up.version2.dreamit-section-title p {
+    font-size: 16px;
+}
+.up1.version2.dreamit-section-title h1 {
+    font-size: 24px;
+}
+.version2.dreamit-section-title h1 {
+    font-size: 24px;
+}
+.art-flatform-title {
+    overflow: hidden;
+}
+.art-flatform-title p {
+    font-size: 13px;
+}
+.art-flatform-title h4 {
+    font-size: 18px;
+}
+.feature-main-thumb img {
+    width: 96%;
+}
+.feature-thumb-innner {
+    right: -76px;
+    bottom: -69px;
+}
+.feature-thumb-innner img {
+    width: 60%;
+}
+.feature-thumb-innner2 {
+    left: -60px;
+    bottom: -60px;
+}
+.feature-thumb-innner2 img {
+    width: 68%;
+}
+.feature-thumb-innner3 {
+    left: -76px;
+    top: -66px;
+}
+.feature-thumb-innner3 img {
+    width: 70%;
+}
+.art-thumb-innner img {
+    width: 75%;
+}
+.art-thumb-innner {
+    right: -70px;
+}
+.art-thumb-innner2 {
+    left: -23px;
+}
+.art-thumb-innner3 {
+    left: -23px;
+}
+.art-thumb-innner4 {
+    left: -23px;
+}
+.art-thumb-innner5 {
+    left: -23px;
+}
+.about-thumb-innner {
+    right: 2px;
+    bottom: -70px;
+}
+.about-thumb-innner img {
+    width: 69%;
+}
+.about-thumb-innner3 img {
+    width: 74%;
+}
+.about-thumb-innner3 {
+    left: -69px;
+}
+.up2.version2.dreamit-section-title h1 {
+    font-size: 25px;
+}
+.up2.version2.dreamit-section-title h4 {
+    font-size: 18px;
+}
+.about-button a {
+    font-size: 14px;
+    padding: 11px 25px;
+}
+
+
+}
+
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+.nftpro_nav_manu {
+    display: none;
+}
+.banner-section.light-version h1 {
+    font-size: 40px;
+    line-height: 43px;
+}
+.dreamit-section-title h1 {
+    font-size: 32px;
+}
+.explore-button.text-right.pt-50 {
+    padding: 0 0 0;
+    margin: -80px 0 0;
+}
+.dreamit-auction-main-thumb img {
+    border-radius: 29px;
+}
+.dreamit-explore-main-thumb img {
+    border-radius: 26px;
+    width: 100%;
+}
+.dreamit-popular-main-thumb img {
+    width: 100%;
+}
+.sell-collect-thumb {
+    margin-top: 83px;
+}
+.dreamit-section-title.sell {
+    text-align: center;
+}
+.sell.dreamit-section-title h4:before {
+    left: 83px;
+}
+.dreamit-blog-thumb img {
+    width: 100%;
+}
+.widgets-company-info.pt-3 {
+    text-align: center;
+}
+.widget-nav-menu {
+    text-align: center;
+}
+.auction-button {
+    display: block;
+}
+.auction-history {
+    margin: -30px 0 0;
+}
+.row.subscribe-bg {
+    padding: 40px 50px 38px;
+}
+.subscribe-title h4 {
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+}
+.subscribe-title h4:before {
+    left: 94px;
+}
+.subscribe-title h2 {
+    font-size: 22px;
+    text-align: center;
+}
+.from-box input {
+    float: left;
+    width: 70%;
+}
+form#contact_form {
+    margin-top: 30px;
+}
+.widget-nav-menu h4 {
+    font-size: 20px;
+    padding: 10px 0 16px;
+}
+.explore.text-right {
+    text-align: inherit;
+    padding-bottom: 30px;
+}
+.items-respond {
+    padding-top: 35px;
+}
+.item-details-menu.upper.text-right {
+    margin-left: 0;
+    margin-top: 20px;
+}
+.dreamit-contact-thumb img {
+    width: 100%;
+}
+.popular-post-thumb {
+    margin-right: 16px;
+}
+.details .blog-title h2 a {
+    font-size: 22px;
+}
+.blog-details-icon {
+    margin-right: 16px;
+}
+.widget-comments-title h2 {
+    font-size: 22px;
+}
+span.right-reply {
+    top: -186px;
+}
+.post-comment-thumb {
+    margin-right: 16px;
+}
+.post-title h4 {
+    font-size: 18px;
+    margin-bottom: 0;
+}
+.upper .search-explore form i {
+    right: 255px;
+}
+p.details-text {
+    font-size: 15px;
+}
+.style-three .widget-sidebar-title h2 {
+    font-size: 28px;
+    margin: 30px 0 0px;
+}
+.dreamit-section-title p {
+    padding: 15px 0 42px 0;
+}
+.accordion a {
+    font-size: 20px;
+}
+.dreamit-faq-thumb img {
+    width: 100%;
+}
+.faq.dreamit-section-title h1 {
+    font-size: 30px;
+}
+.faq.dreamit-section-title h4 {
+    font-size: 14px;
+}
+.dreamit-section-title p {
+    font-size: 16px;
+}
+.profile-thumb {
+    float: inherit;
+    margin-right: 0;
+}
+.author-menu {
+    left: 0;
+    bottom: -46%;
+}
+.author-menu ul li {
+    padding: 0 10px 0 0;
+}
+.author-menu ul li a {
+    font-size: 13px;
+}
+.profile-thumb {
+    float: left;
+    margin-right: 15px;
+}
+.following-id a {
+    font-size: 14px;
+    padding: 4px 12px;
+    margin-top: 12px;
+}
+.settings {
+    right: -25px;
+    bottom: -120px;
+}
+.author-setting h5 {
+    font-size: 14px;
+}
+.explore-item-menu ul li a {
+    font-size: 14px;
+    padding: 3px 9px;
+}
+.authors-name-title h4 {
+    font-size: 24px;
+}
+.search-explore form i {
+    right: 255px;
+}
+.dreamit-result-section p {
+    padding: 20px 0 25px;
+    font-size: 16px;
+}
+.dreamit-result-section h1 {
+    font-size: 23px;
+}
+.auction.dreamit-section-title h1 {
+    font-size: 32px;
+}
+.sign-in-title p {
+    font-size: 16px;
+}
+.sign-in-title p:before {
+    width: 33%;
+}
+.sign-in-title p:after {
+    width: 33%;
+}
+.sign-button {
+    text-align: inherit;
+}
+a.sign-button2 {
+    margin-left: 0;
+    margin-top: 20px;
+}
+.sign-in-title h2 {
+    font-size: 35px;
+}
+.dreamit-wallet-thumb img {
+    width: 100%;
+    margin-bottom: 25px;
+}
+.wallet-box {
+    padding: 22px 18px 2px;
+}
+.wallet-title h3 {
+    font-size: 20px;
+}
+.wallet-title p {
+    font-size: 16px;
+}
+.activites-title h2 {
+    font-size: 22px;
+}
+.activites-title h3 {
+    font-size: 22px;
+}
+.activity-icon {
+    right: 14px;
+    top: 58%;
+}
+.activites-title p {
+    font-size: 16px;
+}
+.activity-market-filter-menu ul li a {
+    padding: 2px 12px;
+    font-size: 15px;
+}
+.activity-button.text-center {
+    margin-bottom: 30px;
+}
+.table>thead tr th span {
+    padding: 0px 10px 0 10px;
+}
+tr.single td span {
+    padding: 0px 10px 0 10px;
+}
+tr.one td span {
+    padding: 0px 10px 0 10px;
+}
+tr.double td span {
+    padding: 0px 10px 0 10px;
+}
+tr.triple td span {
+    padding: 0px 10px 0 10px;
+}
+tr.two td span {
+    padding: 0px 10px 0 10px;
+}
+.table>thead tr th {
+    font-size: 11px;
+}
+.table tr td {
+    font-size: 12px;
+}
+tr.single td h6 {
+    font-size: 13px;
+}
+tr.one td h6 {
+    font-size: 13px;
+}
+tr.double td h6 {
+    font-size: 13px;
+}
+tr.triple td h6 {
+    font-size: 13px;
+}
+tr.two td h6 {
+    font-size: 13px;
+}
+.version2 .banner-content h1 {
+    font-size: 37px;
+}
+.banner-main-thumb {
+    margin-left: 0;
+    margin-top: 188px;
+}
+.banner-thumb-inner1 {
+    top: -192px;
+    right: 40px;
+}
+.banner-thumb-inner1 img {
+    width: 75%;
+}
+.banner-thumb-inner2 {
+    top: -130px;
+    left: 142px;
+}
+.banner-thumb-inner2 img {
+    width: 73%;
+}
+.banner-thumb-inner3 {
+    top: -130px;
+    right: -30px;
+}
+.banner-thumb-inner4 {
+    left: -30px;
+    top: -65px;
+}
+.banner-thumb-inner4 img {
+    width: 75%;
+}
+.banner-thumb-inner5 {
+    right: -110px;
+}
+.banner-thumb-inner5 img {
+    width: 64%;
+}
+.banner-thumb-inner6 {
+    left: -38px;
+    top: 280px;
+}
+.banner-thumb-inner6 img {
+    width: 75%;
+}
+.banner-thumb-inner7 {
+    right: -110px;
+    top: 178px;
+}
+.banner-thumb-inner7 img {
+    width: 64%;
+}
+.banner-button a {
+    font-size: 14px;
+    padding: 13px 30px;
+}
+.version2.dreamit-section-title p {
+    padding: 0 80px 22px;
+}
+.up1.version2.dreamit-section-title h1 {
+    font-size: 24px;
+}
+.version2.dreamit-section-title h1 {
+    font-size: 24px;
+}
+.art-flatform-title {
+    overflow: hidden;
+}
+.art-flatform-title p {
+    font-size: 13px;
+}
+.art-flatform-title h4 {
+    font-size: 18px;
+}
+.feature-main-thumb {
+    margin-bottom: 100px;
+}
+.feature-main-thumb img {
+    width: 96%;
+}
+.feature-thumb-innner {
+    right: -76px;
+    bottom: 0;
+}
+.feature-thumb-innner img {
+    width: 60%;
+}
+.feature-thumb-innner2 {
+    left: -60px;
+    bottom: 0px;
+}
+.feature-thumb-innner2 img {
+    width: 68%;
+}
+.feature-thumb-innner3 {
+    left: -76px;
+    top: -66px;
+}
+.feature-thumb-innner3 img {
+    width: 70%;
+}
+.about-main-thumb {
+    margin-bottom: 90px;
+}
+.about-thumb-innner {
+    right: 2px;
+    bottom: -70px;
+}
+.about-thumb-innner img {
+    width: 69%;
+}
+.about-thumb-innner3 img {
+    width: 74%;
+}
+.about-thumb-innner3 {
+    left: -69px;
+}
+.up2.version2.dreamit-section-title h1 {
+    font-size: 25px;
+}
+.up2.version2.dreamit-section-title h4 {
+    font-size: 18px;
+}
+.about-button a {
+    font-size: 14px;
+    padding: 11px 25px;
+}
+/*version3*/
+.version3 .banner-content h1 {
+    font-size: 40px;
+}
+.version3 .banner-main-thumb img {
+    width: 63%;
+}
+.version3 .banner-main-thumb {
+    margin-top: 0;
+}
+.version3.dreamit-section-title h1 {
+    font-size: 35px;
+}
+.dreamit-section-title.version3.up1 {
+    text-align: center;
+}
+.version3.dreamit-section-title p {
+    font-size: 15px;
+    text-align: center;
+}
+.version3 .em_bar_bg {
+    margin: 15px auto 40px;
+}
+.feature-button {
+    text-align: center;
+}
+.section2.dreamit-section-title p {
+    padding: 15px 5px 42px 0px;
+}
+
+
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 599px) {
+
+.nftpro_nav_manu {
+    display: none;
+}
+.banner-section.light-version h1 {
+    font-size: 30px;
+    line-height: 36px;
+}
+a.default-btn {
+    margin: 20px 0 0;
+}
+.nft-item.light-version .nft-inner {
+    padding: 12px;
+}
+.nft-item.light-version .nft-content h4 a {
+    font-size: 22px;
+}
+.auction.dreamit-section-title h1 {
+    font-size: 30px;
+}
+.explore-button {
+    text-align: left;
+    padding: 0 0 0px;
+    margin: -30px 0 18px;
+}
+.seller-title {
+    text-align: left;
+}
+.owl-nav {
+    right: 20px;
+}
+.dreamit-section-title h1 {
+    font-size: 30px;
+}
+.dreamit-explore-main-thumb img {
+    width: 100%;
+}
+.dreamit-popular-main-thumb img {
+    width: 100%;
+}
+.popular-collection-thumb {
+    margin: 5px 8px 0 0;
+}
+.popular-collection-title p {
+    font-size: 14px;
+}
+.popular-collection-icon {
+    right: -2px;
+    top: 44px;
+}
+.popular-collection-icon a {
+    font-size: 14px;
+    padding: 0px 12px 0px 12px;
+}
+.sell.dreamit-section-title h1 {
+    font-size: 22px;
+    text-align: center;
+}
+.sell.dreamit-section-title h4 {
+    font-size: 15px;
+    padding: 0 0 7px 33px;
+}
+.sell.dreamit-section-title h4:before {
+    left: 145px;
+}
+.sell-button {
+    text-align: center;
+}
+.sell-button a {
+    padding: 11px 30px;
+}
+.sell-collect-thumb img {
+    width: 100%;
+    margin: 58px 0 0;
+}
+.dreamit-section-title.blog.pb-55 {
+    text-align: center;
+}
+.blog.dreamit-section-title h4:before {
+    left: 192px;
+}
+.dreamit-blog-thumb img {
+    width: 100%;
+}
+.blog-title h2 a {
+    font-size: 17px;
+}
+.widgets-company-info.pt-3 {
+    text-align: center;
+}
+.widget-nav-menu {
+    text-align: center;
+}
+.widget-nav-menu h4 {
+    font-size: 20px;
+}
+.widget-nav-menu:before {
+    right: 56px;
+}
+.upper1.widget-nav-menu:before {
+    right: 44px;
+}
+.row.subscribe-bg {
+    padding: 30px 10px 18px;
+    text-align: center;
+}
+.subscribe-title h2 {
+    font-size: 25px;
+    padding: 0;
+}
+.subscribe-title h4 {
+    font-size: 14px;
+}
+.subscribe-title h4:before {
+    left: 25px;
+}
+.from-box input {
+    float: left;
+    padding: 6px 10px;
+    height: 54px;
+}
+.from-box button {
+    padding: 13px 24px;
+    font-size: 13px;
+}
+.new-author-button a {
+    font-size: 14px;
+    margin-top: 20px;
+    padding: 1px 20px;
+}
+.explore.text-right {
+    text-align: inherit;
+    padding-bottom: 30px;
+}
+.items-respond {
+    padding-top: 35px;
+}
+.dreamit-contact-thumb img {
+    width: 100%;
+}
+.item-details-menu {
+    display: none;
+}
+.items-sidebar-title h2 {
+    font-size: 24px;
+}
+.upper.item-details-menu a span {
+    padding-left: 80px;
+    font-size: 16px;
+}
+span.item-pl {
+    padding-left: 30px !important;
+}
+.item-details-menu.upper.text-right {
+    margin-left: 0;
+    margin-top: 20px;
+}
+.title-list ul li a {
+    padding: 4px 15px;
+}
+.title-list {    
+    padding: 14px 16px 11px;
+}
+.style-two .items-owner-title span {
+    font-size: 18px;
+}
+.blog-text p {
+    font-size: 15px;
+}
+.details .blog-meta {
+    padding: 0 15px 0 0px;
+}
+.details .blog-title h2 a {
+    font-size: 17px;
+}
+.blog-popular-text {
+    padding: 30px 11px 8px;
+}
+.blog-details-icon {
+    margin-right: 13px;
+}
+.blog-page-title h4 {
+    font-size: 24px;
+}
+.widget-comments-title h2 {
+    font-size: 22px;
+}
+.post-comment-thumb {
+    margin-right: 15px;
+}
+.post-title h4 {
+    font-size: 18px;
+    margin-bottom: 0;
+}
+span.right-reply {
+    padding: 1px 10px;
+    font-size: 12px;
+    top: -312px;
+    right: -14px;
+}
+span.left-date {
+    font-size: 15px;
+}
+.blog-details-comments-box {
+    padding: 20px 20px 35px;
+}
+.style-two .from-box input {
+    height: 46px;
+}
+.style-two .from-box textarea {
+    height: 122px;
+}
+.style-two.contact-form-box {
+    padding: 16px 26px 38px;
+}
+.popular-post-thumb {
+    margin-right: 18px;
+}
+.popular-post-content a {
+    font-size: 16px;
+    line-height: 22px;
+}
+.style-three .widget-sidebar-title h2 {
+    font-size: 28px;
+    margin: 30px 0 0px;
+}
+ul.accordion li a span {
+    margin-right: 5px;
+}
+.accordion a {
+    font-size: 13px;
+}
+.accordion a:before {
+    height: 25px;
+    width: 25px;
+    right: 0px;
+}
+.accordion a:after {
+    right: 11px;
+}
+.dreamit-section-title p {
+    font-size: 16px;
+    padding: 15px 0 42px 0;
+}
+.dreamit-faq-thumb img {
+    width: 100%;
+}
+.authors-frofile-content {
+    transform: translateY(13%);
+}
+.following-id a {
+    font-size: 15px;
+    margin-top: 15px;
+}
+.author-menu {
+    position: absolute;
+    left: -11px;
+    bottom: -35%;
+}
+.author-menu ul li a span {
+    font-size: 10px;
+}
+.settings {
+    right: -44px;
+    bottom: -186px;
+}
+.author-setting h5 {
+    font-size: 11px;
+}
+.explore-item-menu ul {
+    margin-top: -15px;
+}
+.explore-item-menu ul li a {
+    font-size: 10px;
+    padding: 0;
+}
+.author-menu ul li {
+    padding: 0 24px 0 0;
+}
+.author-menu ul li a {
+    font-size: 11px;
+}
+.dreamit-result-section h1 {
+    font-size: 23px;
+}
+.dreamit-result-section p {
+    padding: 20px 0 30px;
+    font-size: 16px;
+}
+.sign-in-title p {
+    font-size: 14px;
+}
+.sign-in-title p:before {
+    width: 27%;
+}
+.sign-in-title p:after {
+    width: 27%;
+}
+.sign-button {
+    text-align: inherit;
+}
+a.sign-button2 {
+    margin-left: 0;
+    margin-top: 20px;
+}
+.sign-in-title h2 {
+    font-size: 30px;
+}
+.sign-button a {
+    padding: 15px 58px;
+    font-size: 16px;
+}
+label {
+    font-size: 15px;
+}
+.style-four .label-title p {
+    font-size: 14px;
+    margin-top: -27px;
+}
+.style-four .contact-items button {
+    font-size: 16px;
+    padding: 15px 28px;
+}
+.dreamit-wallet-thumb img {
+    width: 100%;
+    margin-bottom: 25px;
+}
+.wallet-box {
+    padding: 22px 18px 2px;
+}
+.wallet-title h3 {
+    font-size: 20px;
+}
+.wallet-title p {
+    font-size: 16px;
+}
+.activities-thumb {
+    float: inherit;
+    margin-bottom: 20px;
+}
+p.activity {
+    font-size: 15px;
+}
+.activity-icon {
+    right: 12px;
+    top: 13%;
+}
+.activites-title h3 {
+    font-size: 22px;
+}
+p.activity {
+    font-size: 15px;
+}
+.activites-title p {
+    font-size: 16px;
+}
+.breadcome-title h2 {
+    font-size: 35px;
+}
+.activities-form select {
+    padding: 6px 3px 6px;
+    font-size: 15px;
+}
+.dreamit-activites-top-box {
+    padding: 10px 15px 15px 17px;
+}
+.activites-title h2 {
+    font-size: 15px;
+}
+.explore_menu form select {
+    font-size: 15px;
+    padding: 11px 16px;
+}
+tr.single td span {
+    display: none;
+}
+.table>thead tr th span {
+    display: none;
+}
+tr.double td span {
+    display: none;
+}
+tr.one td span {
+    display: none;
+}
+tr.triple td span {
+    display: none;
+}
+tr.two td span {
+    display: none;
+}
+.table>thead tr th {
+    font-size: 9px;
+}
+.table tr td {
+    font-size: 9px;
+}
+tr.single td h6 {
+    font-size: 12px;
+    padding: 0 0 0 6px;
+}
+tr.one td h6 {
+    font-size: 12px;
+    padding: 0 0 0 5px;
+}
+tr.double td h6 {
+    font-size: 13px;
+    padding: 0 0 0 6px;
+}
+tr.triple td h6 {
+    font-size: 11px;
+    padding: 0 0 0 4px;
+}
+tr.two td h6 {
+    font-size: 12px;
+    padding: 0 0 0 6px;
+}
+.table tr td img {
+    width: 24%;
+}
+section.banner-section.version2.d-flex.align-items-center {
+    height: 1080px !important;
+}
+.version2 .banner-content h1 {
+    font-size: 28px;
+}
+.banner-main-thumb {
+    margin-left: 0;
+    margin-top: 188px;
+}
+.banner-thumb-inner1 {
+    top: -192px;
+    right: -50px;
+}
+.banner-thumb-inner1 img {
+    width: 75%;
+}
+.banner-thumb-inner2 {
+    top: -130px;
+    left: 27px;
+}
+.banner-thumb-inner2 img {
+    width: 73%;
+}
+.banner-thumb-inner3 {
+    top: -130px;
+    right: -30px;
+}
+.banner-thumb-inner4 {
+    left: -30px;
+    top: 12px;
+}
+.banner-thumb-inner4 img {
+    width: 75%;
+}
+.banner-thumb-inner5 {
+    right: -110px;
+}
+.banner-thumb-inner5 img {
+    width: 64%;
+}
+.banner-thumb-inner6 {
+    left: -38px;
+    top: 280px;
+}
+.banner-thumb-inner6 img {
+    width: 75%;
+}
+.banner-thumb-inner7 {
+    right: -110px;
+    top: 178px;
+}
+.banner-thumb-inner7 img {
+    width: 64%;
+}
+.banner-button a {
+    font-size: 14px;
+    padding: 13px 30px;
+}
+.version2.dreamit-section-title p {
+    padding: 0 13px 22px;
+    font-size: 15px;
+}
+.up1.version2.dreamit-section-title h1 {
+    font-size: 23px;
+}
+.version2.dreamit-section-title h1 {
+    font-size: 24px;
+}
+.art-flatform-title {
+    overflow: hidden;
+}
+.art-flatform-title p {
+    font-size: 13px;
+}
+.art-flatform-title h4 {
+    font-size: 18px;
+}
+.feature-main-thumb {
+    margin-bottom: 100px;
+}
+.feature-main-thumb img {
+    width: 96%;
+}
+.feature-thumb-innner {
+    right: -76px;
+    bottom: 0;
+}
+.feature-thumb-innner img {
+    width: 60%;
+}
+.feature-thumb-innner2 {
+    left: -60px;
+    bottom: 0px;
+}
+.feature-thumb-innner2 img {
+    width: 68%;
+}
+.feature-thumb-innner3 {
+    left: -76px;
+    top: -66px;
+}
+.feature-thumb-innner3 img {
+    width: 70%;
+}
+.about-main-thumb {
+    margin-bottom: 90px;
+}
+.about-thumb-innner {
+    right: -49px;
+    bottom: -70px;
+}
+.about-thumb-innner img {
+    width: 69%;
+}
+.about-thumb-innner3 img {
+    width: 74%;
+}
+.about-thumb-innner3 {
+    left: -69px;
+}
+.up2.version2.dreamit-section-title h1 {
+    font-size: 25px;
+}
+.up2.version2.dreamit-section-title h4 {
+    font-size: 18px;
+}
+.about-button a {
+    font-size: 14px;
+    padding: 11px 25px;
+}
+.art-thumb-innner2 {
+    left: -19px;
+}
+.art-thumb-innner3 {
+    left: -19px;
+}
+.art-thumb-innner4 {
+    left: -19px;
+}
+.art-thumb-innner5 {
+    left: -19px;
+}
+.art-thumb-innner {
+    right: -95px;
+}
+/*version3*/
+.version3 .banner-content {
+    text-align: center;
+}
+.version3 .banner-content h1 {
+    font-size: 27px;
+    line-height: 36px;
+}
+.version3 .banner-main-thumb img {
+    width: 80%;
+}
+.version3 .banner-main-thumb {
+    margin-top: 0;
+}
+.version3 .banner-thumb-inner6 img {
+    width: 55%;
+}
+.version3.dreamit-section-title h1 {
+    font-size: 25px;
+}
+.dreamit-section-title.version3.up1 {
+    text-align: center;
+}
+.version3.dreamit-section-title p {
+    font-size: 15px;
+    text-align: center;
+}
+.version3 .em_bar_bg {
+    margin: 15px auto 40px;
+}
+.feature-button {
+    text-align: center;
+}
+.section2.dreamit-section-title p {
+    padding: 15px 5px 42px 0px;
+}
+.em-auction-title h2 {
+    font-size: 17px;
+}
+
+}
+
+
